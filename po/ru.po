@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bad_Moon_Rising-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-28 02:12+0200\n"
+"POT-Creation-Date: 2012-11-22 20:21-0500\n"
 "PO-Revision-Date: 2012-09-28 02:12+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,7 +18,7 @@ msgstr ""
 #. [campaign]: id=Bad_Moon_Rising_III
 #. [editor_group]: id=badmoonrising
 #: Bad_Moon_Rising/_main.cfg:39 Bad_Moon_Rising/_main.cfg:60
-#: Bad_Moon_Rising/_main.cfg:81 Bad_Moon_Rising/_main.cfg:182
+#: Bad_Moon_Rising/_main.cfg:81 Bad_Moon_Rising/_main.cfg:185
 msgid "Bad Moon Rising"
 msgstr ""
 
@@ -141,82 +141,82 @@ msgid "Volcano"
 msgstr ""
 
 #. [message]: speaker=Kashja
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:132
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:133
 msgid "I - I have the rock!"
 msgstr ""
 
 #. [message]
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:137
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:138
 msgid "Grethtah!"
 msgstr ""
 
 #. [message]: speaker=Kashja
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:196
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:197
 msgid "They're on my heels, open the damned gates!"
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:221
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:222
 msgid "Bring it here, there's no time to lose!"
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:226
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:227
 msgid "Don't let them into the stronghold!"
 msgstr ""
 
 #. [message]: speaker=Vanha
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:231
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:232
 msgid ""
 "Our ranks have been thinned, we won't be able to hold them back for long."
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:236
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:237
 msgid ""
 "We won't have to hold them off for long if we can get the Angry Eye up and "
 "running. Don't let them past this chamber!"
 msgstr ""
 
 #. [message]: speaker=Rostov
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:248
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:249
 msgid "Hhhhhuuh..."
 msgstr ""
 
 #. [message]: speaker=Vanha
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:254
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:255
 msgid "Councilman, look out!"
 msgstr ""
 
 #. [message]: speaker=Guard2
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:280
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:281
 msgid "Hhissss..."
 msgstr ""
 
 #. [message]: speaker=Kashja
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:326
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:327
 msgid "They were Khthon! We've been infiltrated!"
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:330
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:331
 msgid "Then there is not enough time... I need to reach the failsafe!"
 msgstr ""
 
 #. [message]: speaker=Kashja
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:334
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:335
 msgid "Go! I'll cover you!"
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:344
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:345
 msgid ""
 "I'll throw the failsafe to lock-down the Eye! None but a free man can ever "
 "enter again."
 msgstr ""
 
 #. [message]: speaker=Shaema
-#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:348
+#: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:349
 msgid ""
 "This will be our tomb, but may it also be of use to our future kin in "
 "fighting the oppressive monsters."
@@ -1539,7 +1539,7 @@ msgid "General Burton"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:132
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:133
 msgid ""
 "Lieutenants, I have an assignment. We have received neither tribute nor "
 "report from Gornath for an entire season. The town is at the edge of our "
@@ -1547,7 +1547,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:136
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:137
 msgid ""
 "I want the two of you to go to Gornath and correct whatever the problem may "
 "be."
@@ -1555,7 +1555,7 @@ msgstr ""
 
 #. [side]: type=General, id=General Maskov
 #. [unit]: type=General, id=Maskov
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:148
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:149
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:267
 #: Bad_Moon_Rising/scenarios2/1_06_Guardian.cfg:56
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:876
@@ -1563,7 +1563,7 @@ msgid "General Maskov"
 msgstr ""
 
 #. [message]: speaker=Maskov
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:158
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:160
 msgid ""
 "Lord Huric! Fort Kuhle is under attack! I've sent cavalry to assist General "
 "Drago, but scouts report that the orcish assault is massive. I am ready to "
@@ -1571,46 +1571,46 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:162
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:164
 msgid ""
 "That will not be necessary... General Burton will go to Fort Kuhle, you will "
 "await further orders."
 msgstr ""
 
 #. [message]: speaker=Maskov
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:166
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:168
 msgid "Yes, Lord Huric."
 msgstr ""
 
 #. [message]: speaker=Burton
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:170
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:172
 msgid "I'm on my way, my lord."
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:183
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:185
 msgid "Lieutenants! Be on your way."
 msgstr ""
 
 #. [message]: speaker=Cantwell
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:187
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:192
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:189
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:194
 msgid "Yes, my lord."
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:198
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:200
 msgid "Oh, and Lieutenant Cantwell!"
 msgstr ""
 
 #. [message]: speaker=Cantwell
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:203
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:205
 msgid "Yes, my lord?"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:207
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:209
 msgid ""
 "The problem with Gornath may have nothing to do with orcs. Do whatever needs "
 "to be done... Understood?"
@@ -1618,7 +1618,7 @@ msgstr ""
 
 #. [message]: speaker=Cantwell
 #. [message]: speaker=Sadellon
-#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:211
+#: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:213
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:1223
 msgid "Yes, my lord!"
 msgstr ""
@@ -9777,9 +9777,7 @@ msgid "Belleros arrives before Raenna reaches the keep"
 msgstr ""
 
 #. [unit]: type=Chimera, id=Chimera
-#. [unit_type]: id=Chimera, race=khthon
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:325
-#: Bad_Moon_Rising/units/Chimera.cfg:5
 msgid "Chimera"
 msgstr ""
 
@@ -10753,34 +10751,6 @@ msgstr ""
 msgid "Max HP bonus +2, Nightstalk Ability, Max Exp penalty 30%"
 msgstr ""
 
-#. [unit_type]: id=Chimera, race=khthon
-#: Bad_Moon_Rising/units/Chimera.cfg:21
-msgid ""
-"Unlike most Khthon encountered recently, Chimera have had their corporeal "
-"forms for quite some time. Like the rest of the Khthon however, they have "
-"been dormant until very recently. They are very powerful guardians stationed "
-"at any place the Khthon deem vital."
-msgstr ""
-
-#. [regenerate]: id=immortal
-#: Bad_Moon_Rising/units/Chimera.cfg:35 Bad_Moon_Rising/units/Echidna.cfg:48
-msgid "immortal"
-msgstr ""
-
-#. [regenerate]: id=immortal
-#: Bad_Moon_Rising/units/Chimera.cfg:36 Bad_Moon_Rising/units/Echidna.cfg:49
-msgid ""
-"immortal:\n"
-"This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
-msgstr ""
-
-#. [attack]: type=cold
-#. [attack]: type=fire
-#: Bad_Moon_Rising/units/Chimera.cfg:53
-#: Bad_Moon_Rising/units/monsters/Frost_Wolf.cfg:40
-msgid "breath"
-msgstr ""
-
 #. [unit_type]: id=Dark Messiah, race=human
 #: Bad_Moon_Rising/units/Dark_Messiah.cfg:5
 msgid "Dark Messiah"
@@ -10817,10 +10787,20 @@ msgid ""
 "thoughts and weaknesses of the more modern races."
 msgstr ""
 
-#. [attack]: type=cold
+#. [regenerate]: id=immortal
+#: Bad_Moon_Rising/units/Echidna.cfg:48
+msgid "immortal"
+msgstr ""
+
+#. [regenerate]: id=immortal
+#: Bad_Moon_Rising/units/Echidna.cfg:49
+msgid ""
+"immortal:\n"
+"This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
+msgstr ""
+
 #. [attack]: type=fire
 #: Bad_Moon_Rising/units/Echidna.cfg:67
-#: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:68
 msgid "psyche"
 msgstr ""
 
@@ -10936,38 +10916,6 @@ msgid ""
 "his heartlessness.\n"
 "\n"
 "Special Notes:"
-msgstr ""
-
-#. [unit_type]: id=Primeval Ares, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Ares.cfg:5
-msgid "War God"
-msgstr ""
-
-#. [unit_type]: id=Primeval Ares, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Ares.cfg:21
-msgid ""
-"The title 'War God' is more of a testament to power than a claim to "
-"divinity. This is one of the highest ranks a Primeval can attain.\n"
-"Special Note:  This unit cannot be killed."
-msgstr ""
-
-#. [attack]: type=arcane
-#: Bad_Moon_Rising/units/Primeval_Ares.cfg:60
-msgid "enervation"
-msgstr ""
-
-#. [unit_type]: id=Primeval Nemesis, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:5
-msgid "Avenging Goddess"
-msgstr ""
-
-#. [unit_type]: id=Primeval Nemesis, race=primeval
-#: Bad_Moon_Rising/units/Primeval_Nemesis.cfg:41
-msgid ""
-"The Goddess of Vengance gets her title from the fast, ferocious, and "
-"unrelenting way pursues her targets. Her strength, speed, and flight ability "
-"make her quite dangerous.\n"
-"Special Note:  This unit cannot be killed."
 msgstr ""
 
 #. [unit_type]: id=Primeval Storm, race=primeval
@@ -11173,45 +11121,6 @@ msgstr ""
 msgid "race^Ghosts"
 msgstr ""
 
-#. [unit_type]: id=Frost Wolf, race=snow_wolf
-#: Bad_Moon_Rising/units/monsters/Frost_Wolf.cfg:5
-msgid "Frost Wolf"
-msgstr ""
-
-#. [unit_type]: id=Frost Wolf, race=snow_wolf
-#: Bad_Moon_Rising/units/monsters/Frost_Wolf.cfg:26
-msgid ""
-"Frost Wolves are larger than Grey Wolves, but thought to be related. It is "
-"said they can freeze with their breath, but that is surely a myth."
-msgstr ""
-
-#. [unit_type]: id=Grey Wolf, race=snow_wolf
-#: Bad_Moon_Rising/units/monsters/Grey_Wolf.cfg:5
-msgid "Grey Wolf"
-msgstr ""
-
-#. [unit_type]: id=Grey Wolf, race=snow_wolf
-#: Bad_Moon_Rising/units/monsters/Grey_Wolf.cfg:26
-msgid ""
-"Grey Wolves are predators adapted to life in the cold north. These are "
-"strange times, and the wolves have been more aggressive as of late."
-msgstr ""
-
-#. [race]: id=snow_wolf
-#: Bad_Moon_Rising/units/snow_race.cfg:5 Bad_Moon_Rising/units/snow_race.cfg:7
-msgid "race^Northern Wolf"
-msgstr ""
-
-#. [race]: id=snow_wolf
-#: Bad_Moon_Rising/units/snow_race.cfg:6
-msgid "race+female^Northern Wolf"
-msgstr ""
-
-#. [race]: id=snow_wolf
-#: Bad_Moon_Rising/units/snow_race.cfg:9
-msgid "Northern Wolves ..."
-msgstr ""
-
 #. [set_menu_item]: id=bmr_crew
 #: Bad_Moon_Rising/utils/1_worldmap.cfg:79
 msgid "Marching Formation"
@@ -11406,17 +11315,17 @@ msgid ""
 "type until the end of the current scenario. Should $unit.name use it?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:184 Bad_Moon_Rising/utils/items.cfg:483
-#: Bad_Moon_Rising/utils/items.cfg:504 Bad_Moon_Rising/utils/items.cfg:523
-#: Bad_Moon_Rising/utils/items.cfg:542 Bad_Moon_Rising/utils/items.cfg:559
-#: Bad_Moon_Rising/utils/items.cfg:576
+#: Bad_Moon_Rising/utils/items.cfg:184 Bad_Moon_Rising/utils/items.cfg:446
+#: Bad_Moon_Rising/utils/items.cfg:467 Bad_Moon_Rising/utils/items.cfg:486
+#: Bad_Moon_Rising/utils/items.cfg:505 Bad_Moon_Rising/utils/items.cfg:522
+#: Bad_Moon_Rising/utils/items.cfg:539
 msgid "take it"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:185 Bad_Moon_Rising/utils/items.cfg:484
-#: Bad_Moon_Rising/utils/items.cfg:505 Bad_Moon_Rising/utils/items.cfg:524
-#: Bad_Moon_Rising/utils/items.cfg:543 Bad_Moon_Rising/utils/items.cfg:560
-#: Bad_Moon_Rising/utils/items.cfg:577
+#: Bad_Moon_Rising/utils/items.cfg:185 Bad_Moon_Rising/utils/items.cfg:447
+#: Bad_Moon_Rising/utils/items.cfg:468 Bad_Moon_Rising/utils/items.cfg:487
+#: Bad_Moon_Rising/utils/items.cfg:506 Bad_Moon_Rising/utils/items.cfg:523
+#: Bad_Moon_Rising/utils/items.cfg:540
 msgid "leave it"
 msgstr ""
 
@@ -11436,110 +11345,110 @@ msgid ""
 "the end of the current scenario."
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:483
+#: Bad_Moon_Rising/utils/items.cfg:446
 msgid "$unit.name found a fancy-looking breastplate.  Put it on?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:485
+#: Bad_Moon_Rising/utils/items.cfg:448
 msgid "$unit.name found a fancy-looking breastplate.  How silly."
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:487
+#: Bad_Moon_Rising/utils/items.cfg:450
 msgid "Aegis Armor"
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:489
+#: Bad_Moon_Rising/utils/items.cfg:452
 msgid ""
 "This armor bears a complicated crest of unfamiliar design. No blades can cut "
 "through its odd material. Will it stop the blades of Ares?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:504
+#: Bad_Moon_Rising/utils/items.cfg:467
 msgid "$unit.name found a very shiny shield.  Pick it up?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:506
+#: Bad_Moon_Rising/utils/items.cfg:469
 msgid "$unit.name found a mirror.  Hey, Good-looking."
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:508
+#: Bad_Moon_Rising/utils/items.cfg:471
 msgid "Reflector Shield"
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:510
+#: Bad_Moon_Rising/utils/items.cfg:473
 msgid ""
 "This shield deflects the damaging energy of fire attacks. It also tends to "
 "make pierce attacks slide off harmlessly."
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:523
+#: Bad_Moon_Rising/utils/items.cfg:486
 msgid ""
 "$unit.name found a shining amulet.  It is very heavy for its size.  Pick it "
 "up?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:525
+#: Bad_Moon_Rising/utils/items.cfg:488
 msgid "$unit.name found an amulet.  Nice."
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:527
+#: Bad_Moon_Rising/utils/items.cfg:490
 msgid "Shock Charm"
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:529
+#: Bad_Moon_Rising/utils/items.cfg:492
 msgid ""
 "This odd amulet absorbs energy from shocks and impact. It should lessen the "
 "damage sustained form physical attacks (impact, pierce, blade)."
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:542 Bad_Moon_Rising/utils/items.cfg:559
-#: Bad_Moon_Rising/utils/items.cfg:576
+#: Bad_Moon_Rising/utils/items.cfg:505 Bad_Moon_Rising/utils/items.cfg:522
+#: Bad_Moon_Rising/utils/items.cfg:539
 msgid ""
 "$unit.name found a frosty amulet.  It is cold to the touch.  Pick it up?"
 msgstr ""
 
-#: Bad_Moon_Rising/utils/items.cfg:544 Bad_Moon_Rising/utils/items.cfg:561
-#: Bad_Moon_Rising/utils/items.cfg:578
+#: Bad_Moon_Rising/utils/items.cfg:507 Bad_Moon_Rising/utils/items.cfg:524
+#: Bad_Moon_Rising/utils/items.cfg:541
 msgid "$unit.name found a cold amulet.  Cool..."
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:546 Bad_Moon_Rising/utils/items.cfg:563
-#: Bad_Moon_Rising/utils/items.cfg:580
+#: Bad_Moon_Rising/utils/items.cfg:509 Bad_Moon_Rising/utils/items.cfg:526
+#: Bad_Moon_Rising/utils/items.cfg:543
 msgid "Cooler Charm"
 msgstr ""
 
 #. [object]
-#: Bad_Moon_Rising/utils/items.cfg:548 Bad_Moon_Rising/utils/items.cfg:565
-#: Bad_Moon_Rising/utils/items.cfg:582
+#: Bad_Moon_Rising/utils/items.cfg:511 Bad_Moon_Rising/utils/items.cfg:528
+#: Bad_Moon_Rising/utils/items.cfg:545
 msgid ""
 "This odd amulet regulates local temperatures. Should come in handy against "
 "fire blasts..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/utils/items.cfg:610
+#: Bad_Moon_Rising/utils/items.cfg:573
 msgid "I feel light-headed..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/utils/items.cfg:639
+#: Bad_Moon_Rising/utils/items.cfg:602
 msgid "The pommel of the sword is glowing."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/utils/items.cfg:644
+#: Bad_Moon_Rising/utils/items.cfg:607
 msgid "These are not toys for thieves!"
 msgstr ""
 
 #. [message]: speaker=Raenna
-#: Bad_Moon_Rising/utils/items.cfg:653
+#: Bad_Moon_Rising/utils/items.cfg:616
 msgid "There goes our only chance to stop the immortal demons..."
 msgstr ""
 
