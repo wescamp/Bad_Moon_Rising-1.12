@@ -1,17 +1,17 @@
 border_size=1
 usage=map
 
-Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Ce          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Ce          , Ce          , Ce          , Ce          , Ce          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp^Xo       , Ce          , Ce          , Ce          , Ce          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Rp^Xo       , Rp^Xo       , Ce^Xo       , Rp^Xo       , Rp^Xo       , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Rp          , Rp          , Rp          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Rp          , Ce          , Rp          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Ce          , 1 Ke        , Ce          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Ce          , Ce          , Ce          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Rp          , Rp          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Rp          , Rp          , Rp          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          , Xu          
-Xu          , Xu          , Xu          , Xu          , Xu          , Rp          , Rp          , Rp          , Rp          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Ce, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Ce, Ce, Ce, Ce, Ce, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Iwr^Xo, Ce, Ce, Ce, Ce, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Iwr, Iwr^Xo, Iwr^Xo, Iwr^Xo, Iwr^Xo, Iwr^Xo, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Iwr, Iwr, Ce, Iwr, Iwr, Iwr, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Iwr, Ce, 1 Ke, Ce, Iwr, Iwr, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Re, Ce, Ce, Ce, Re, Iwr, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Re, Re, Rb, Re, Rb, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Rb, Rb, Rb, Rb, Aa, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Aa, Aa, Aa, Aa, Xos, Xos, Xos, Xos, Xos
