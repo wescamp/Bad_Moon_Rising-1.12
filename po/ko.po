@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bad_Moon_Rising-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-13 11:27-0400\n"
+"POT-Creation-Date: 2014-02-17 02:49+0100\n"
 "PO-Revision-Date: 2012-09-28 02:12+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1395,8 +1395,8 @@ msgstr ""
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:565
 msgid ""
-"If I could have killed you any slower, Foul One, I would have...  "
-"*(spit)*  \n"
+"If I could have killed you any slower, Foul One, I would have...  *(spit)"
+"*  \n"
 "...\n"
 "Now, to escape this cursed mountain!"
 msgstr ""
@@ -1607,7 +1607,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:147
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:90
 #: Bad_Moon_Rising/scenarios3/2_02_World.cfg:47
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:118
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:122
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:107
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:122
 #: Bad_Moon_Rising/scenarios3/2_03_World.cfg:53
@@ -1817,7 +1817,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/Battles.cfg:600
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:26
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:27
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:27
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:31
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:50
 #: Bad_Moon_Rising/scenarios3/Battles.cfg:33
 #: Bad_Moon_Rising/scenarios3/Battles.cfg:127
@@ -2551,7 +2551,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:741
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:38
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:39
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:39
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:43
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:62
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:1092
 #: Bad_Moon_Rising/scenarios3/2_07_Salvation.cfg:1374
@@ -3848,7 +3848,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:737
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:34
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:35
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:35
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:39
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:58
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:31
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:357
@@ -6293,7 +6293,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:30
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:31
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:31
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:35
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:54
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:39
 #: Bad_Moon_Rising/scenarios3/2_04_Legion.cfg:917
@@ -6504,7 +6504,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:846
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:340
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:526
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:546
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:474
 msgid "Carry on..."
 msgstr ""
@@ -6512,7 +6512,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:859
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:353
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:539
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:559
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:487
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:405
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:1076
@@ -6524,7 +6524,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:872
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:366
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:552
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:572
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:500
 msgid "Ach!"
 msgstr ""
@@ -6532,7 +6532,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:885
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:379
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:565
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:585
 #: Bad_Moon_Rising/scenarios3/2_03_Pit.cfg:513
 msgid "Ouch!"
 msgstr ""
@@ -6761,7 +6761,7 @@ msgstr ""
 
 #. [message]: id=Lorenzon
 #: Bad_Moon_Rising/scenarios3/2_02_MineMouth.cfg:456
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:684
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:704
 msgid "More orcs, and they carry the Skoro Banner..."
 msgstr ""
 
@@ -6852,14 +6852,19 @@ msgstr ""
 msgid "Rescue Hrala Gareth"
 msgstr ""
 
+#. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:27
+msgid "Lieutenant Branson escapes with hostage"
+msgstr ""
+
 #. [side]: type=Hostage Taker, id=Branson
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:177
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:181
 msgid "Lieutenant Branson"
 msgstr ""
 
 #. [side]: type=Orcish Warrior, id=Grat Gareth
 #. [unit]: type=Orcish Warrior, id=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:275
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:288
 #: Bad_Moon_Rising/scenarios3/2_04_Checkpoint.cfg:199
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:117
 #: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:113
@@ -6867,50 +6872,50 @@ msgid "Grat Gareth"
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:392
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:411
 msgid "Great, more humans! Hrala, do not give up! We'll think of something."
 msgstr ""
 
 #. [message]: speaker=Parthak Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:396
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:415
 msgid "Will we? We're outnumbered, they've got Hrala..."
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:400
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:419
 msgid "Shut up, Parthak! C'mon grunts! We fail - we die, move!"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:404
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:423
 msgid ""
 "Hail, Gareth Banner! We are not here to attack you. Aldak sends his regards."
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:408
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:427
 msgid "Whaa?"
 msgstr ""
 
 #. [message]: speaker=Branson
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:412
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:431
 msgid "Who in the hell are you?"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:416
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:435
 msgid "What is going on? Who is 'Hrala'?"
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:420
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:439
 msgid ""
 "Hrala is an elder and one of our very few healers. Those invaders are "
 "holding her hostage!"
 msgstr ""
 
 #. [message]: speaker=Branson
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:424
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:443
 msgid ""
 "We need this hostage, or else the orcish beasts will close in on us! You are "
 "humans, we are humans, they are orcs... What's there to debate? Help us get "
@@ -6918,14 +6923,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:428
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:447
 msgid ""
 "I see you and each of your men carry loads of shiny metal trinkets, why not "
 "trade them for safe passage?"
 msgstr ""
 
 #. [message]: speaker=Branson
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:432
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:451
 msgid ""
 "We need to take this cargo back to Weldyn... Enough! I owe you no "
 "explanations for you would align yourself with the orcs! May you end up in "
@@ -6933,25 +6938,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:436
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:455
 msgid ""
 "Very well. Gareth Banner! We will help save Hrala, in return we ask for the "
 "cargo that the enemy carries."
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:440
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:459
 msgid "Fair enough!"
 msgstr ""
 
 #. [message]: speaker=Branson
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:444
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:463
 msgid ""
 "Orc lover! I-I-I'll kill this one - slice her head right off! Stay away!"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:448
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:467
 msgid ""
 "(Hmmm. The Lieutenant is terrified and will behave irrationally, we need to "
 "get to him before he kills the hostage...)  It is probably a bad idea to "
@@ -6959,123 +6964,123 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:452
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:471
 msgid "There is no time to set up camp, it is up to us who are already here."
 msgstr ""
 
 #. [message]: speaker=Carusoe
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:475
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:494
 msgid "Are they going to get away?"
 msgstr ""
 
 #. [message]: speaker=Raenna
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:479
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:498
 msgid "Come to gloat, you pathetic whelp?"
 msgstr ""
 
 #. [message]: speaker=Carusoe
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:483
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:502
 msgid "No! No I - "
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:487
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:506
 msgid ""
 "Go away. You have a long, sordid reputation, it is not possible for us to "
 "treat you as an ally."
 msgstr ""
 
 #. [message]: speaker=Carusoe
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:491
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:510
 msgid "I see ..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:508
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:528
 msgid ""
 "This position is defensible, I think we're going to make it back Weldyn "
 "after all!"
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:512
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:532
 msgid ""
 "No! They still have Hrala... What are they going to do to her? What is the "
 "Chief going to do to us?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:584
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:604
 msgid "These are brazen wolves!."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:588
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:608
 msgid ""
 "It is odd behaviour, they usually stay away from battles until the fighting "
 "is over..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:599
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:619
 msgid "Ah well, we tried... We choose our allies poorly..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:620
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:640
 msgid "What will... happen... ... We've failed..."
 msgstr ""
 
 #. [unit]: type=Hrala, id=Hrala Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:629
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:649
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:132
 #: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:127
 msgid "Hrala Gareth"
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:635
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:655
 msgid "Hrala!  What have they done to you, are you hurt?"
 msgstr ""
 
 #. [message]: speaker=Hrala Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:639
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:659
 msgid "No, I am fine. Thank you... Humans?"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:643
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:663
 msgid "Yes. We are friends of Gareth Banner, though enemies of other banners."
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:647
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:667
 msgid "Thank you for your help, we can split the other humans' trinkets."
 msgstr ""
 
 #. [message]: speaker=Hrala Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:651
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:671
 msgid ""
 "Wait! Humans wandering around here on the tundra will not last long. Are you "
 "mercenaries?"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:655
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:675
 msgid ""
 "No, we're not mercenaries.  We need to get to the Copper Mine, but your "
 "friend Aldak is blocking the way.  We need to pay him to pass."
 msgstr ""
 
 #. [message]: speaker=Hrala Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:659
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:679
 msgid ""
 "Really! I wonder what he is up to... We will catch up with him.  Take all of "
 "the trinkets, we'll take the weapons and armor from the fallen."
 msgstr ""
 
 #. [message]: speaker=Grat Gareth
-#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:663
+#: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:683
 msgid ""
 "Again, thank you for your help.  If we ever get the upper hand, you will not "
 "be driven back south."
